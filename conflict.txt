@@ -1,1 +1,1 @@
-Message from conflict branch
+Message from conflict-demo branch
